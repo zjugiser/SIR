@@ -1,5 +1,7 @@
 # Stepwise Intervention and Reweighting (SIR)
 
+Source code for [Causality-Guided Stepwise Intervention and Reweighting for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/document/10606248).
+
 ## Get Started
 
 1. To install the necessary packages, run the following command-line code.
@@ -40,3 +42,19 @@ pip install -r requirements.txt
 > K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2016, pp. 770–778.
 > 
 > M. Tan and Q. Le, “Efficientnet: Rethinking model scaling for convolutional neural networks,” in International conference on machine learning. PMLR, 2019, pp. 6105–6114.
+
+## Citation
+
+```
+@ARTICLE{10606248,
+  author={Shi, Shuting and Li, Baohong and Zhang, Laifu and Kuang, Kun and Wu, Sensen and Feng, Tian and Yan, Yiming and Du, Zhenhong},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Causality-Guided Stepwise Intervention and Reweighting for Remote Sensing Image Semantic Segmentation}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Semantic segmentation;Task analysis;Semantics;Transformers;Feature extraction;Unified modeling language;Data models;Causal inference;deep learning (DL);remote sensing (RS);semantic segmentation;transfer learning},
+  doi={10.1109/TGRS.2024.3432397}
+}
+```
